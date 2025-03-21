@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1738148032 source:c:\projectc\keyboardpy\keyboardpy.cpp
+	<stdio.h>
+	<conio.h>
+	<Windows.h>
+
